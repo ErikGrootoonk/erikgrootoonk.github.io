@@ -233,6 +233,9 @@ main a:hover {
 
     border-radius: 4px;
   }
+  .blog-articles {
+    margin-top: 2em;
+  }
 }
 
 @media (min-width: 64em) {
